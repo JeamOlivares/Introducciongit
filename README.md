@@ -1,6 +1,6 @@
 # Introducciongit
 
-Primer repositorio en *GitHub* utilizando **git**. Un prpyecto se puede clonar utilizando el comando `git clone`.
+Primer repositorio en *GitHub* utilizando **git**. Un proyecto se puede clonar utilizando el comando `git clone`.
 
 ```R
 x = rnorm(10)
