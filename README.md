@@ -1,5 +1,6 @@
 # Introducciongit
 
+## Markdown
 Primer repositorio en *GitHub* utilizando **git**. Un proyecto se puede clonar utilizando el comando `git clone`.
 
 ```R
