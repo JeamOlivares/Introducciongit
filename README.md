@@ -33,4 +33,4 @@ Esta es una tabla
 El enlace para este repositorio es [Primergit](https://github.com/JeamOlivares/Introducciongit)
 Ahora agrego una imagen de git
 
-![git](figuras\logo.png)
+![git](logo.png)
