@@ -25,5 +25,5 @@ Esta es una tabla
 
 | Id | Profession | Age |
 |--|--|--|
-|1|Statitian|25|
+|1|Statician|25|
 |2|Writer|30|
