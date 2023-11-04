@@ -18,3 +18,8 @@ $$x\sim N(0,\sigma^2)$$
 ## Sección 2
 
 Texto Prueba
+
+|Id|Profession|Age|
+|--|--|--|
+|1|Statitian|25|
+|2|Writer|30|
